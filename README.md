@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raviteja,
 - 🎓 I have a PhD. in neuroimaging, and a MSc. in Medical Physics, 
 - 🌱 I also have a Bachelor of Technology in Biomedical Engineering,
-- 🚜 I love creating datascience projects,
+- 🚜 I enjoy creating datascience projects,
   
 
 <!---
