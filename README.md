@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/k87rte/images/blob/main/imags/neuro-ai.jpeg)
+![MasterHead](https://github.com/k87rte/images/blob/main/imags/neuro-ai.jpg)
 <h1 align="center">Hi 👋, I'm Dr., Raviteja Kotikalapudi</h1>
 <h3 align="center">Neuroscientist, Machine learning, Deep learning, Mathematical modelling, Statistics</h3>
 
