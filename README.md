@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k87rte&label=Profile%20views&color=0e75b6&style=flat" alt="k87rte" /> </p>
 
-- 📝 Check my scientific publications at [https://scholar.google.de/citations?user=J4IiWQMAAAAJ&hl=en&oi=ao](https://scholar.google.de/citations?user=J4IiWQMAAAAJ&hl=en&oi=ao)
+- :mortar_board: Check my scientific publications at [https://scholar.google.de/citations?user=J4IiWQMAAAAJ&hl=en&oi=ao](https://scholar.google.de/citations?user=J4IiWQMAAAAJ&hl=en&oi=ao)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
