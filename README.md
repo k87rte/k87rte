@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/k87rte/images/blob/main/imags/neuro-ai.jpg)
-<h1 align="center">Hi 👋, I'm Raviteja Kotikalapudi (Ph.D. in computational neuroscience)</h1>
+<h1 align="center">Hi 👋, I'm Raviteja Kotikalapudi (Ph.D. in Medical Imaging)</h1>
 <h3 align="center">Neuroscientist, Machine learning, Deep learning, Mathematical modelling, Statistics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k87rte&label=Profile%20views&color=0e75b6&style=flat" alt="k87rte" /> </p>
